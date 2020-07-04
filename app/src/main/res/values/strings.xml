@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB1UNI2_ASYNCTASK_RECYCLERVIEW</string>
+    <string name="instrucciones">Ingresar el nombre del libro para conocer su autor.</string>
+    <string name="textoBoton">Buscar Libro</string>
+    <string name="inputHint">Titulo del Libro</string>
+    <string name="especial">\</string>
+    <string name="prueba">paolo</string>
+</resources>
